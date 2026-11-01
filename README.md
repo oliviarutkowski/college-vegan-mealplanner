@@ -20,5 +20,5 @@ A Java command-line program designed for college students to easily generate wee
 - **Data Storage:** Local JSON files
   
 ## Relevant Docs
-- [Eisenhower Matrix] (EisenhowerMatrixOliviaRutkowskiGoogleDocs.pdf)
+- [Eisenhower Matrix](EisenhowerMatrixOliviaRutkowskiGoogleDocs.pdf)
 - [System Diagram](flowchartOliviacs193.drawio.png)
